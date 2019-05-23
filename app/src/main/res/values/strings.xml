@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">digitalgain</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh_icon">refresh icon</string>
+    <string name="coin_name">COIN NAME</string>
+    <string name="refresh">REFRESH</string>
+</resources>

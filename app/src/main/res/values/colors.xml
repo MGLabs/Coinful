@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#488AFF</color>
+    <color name="colorPrimaryDark">#19232C</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="list_item_bkg">#1e4871</color>
+    <color name="refresh_label">#c1e6ff</color>
+    <color name="coin_name_label">#466581</color>
+</resources>
